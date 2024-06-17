@@ -37,11 +37,15 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ## Statistics
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nazmul-nhb&show_icons=true&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=nazmul-nhb&show_icons=true&theme=prussian)  
+###
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=nazmul-nhb&show_icons=true&theme=prussian)
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+
 
 
 
