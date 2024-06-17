@@ -46,7 +46,8 @@
 
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
+<img src="https://raw.githubusercontent.com/mohaiminul375/mohaiminul375/output/snake.svg" alt="Snake animation" />
 
 
 
-![Fun Fact](https://img.shields.io/badge/Fun%20Fact-I'm%20passionate%20about%20World%20Literature%20%26%20Mythology-000000?style=for-the-badge)
+
